@@ -8,7 +8,7 @@ Make sure to install both bot.user.js and launcher.user.js
 #Honorable mention
 There are other people working on bots, you can check the forks, as well as GamerLio's Github which uses genetic algorithms: https://github.com/leomwu/agario-bot
 
-#How to Install
+# How to Install
 **Web Tutorial**
 
 http://bot.jlynx.net/
@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=Zvq38nmCm1s - Install Tutorial.
 
 https://www.youtube.com/watch?v=x2-DFRnEFBU - Android Tutorial.
 
-#Hotkeys
+# Hotkeys
 
 * Press 'R' if you want to toggle the line and dot drawing.
 * Press 'T' if you want to use the manual controls.
